@@ -4,8 +4,11 @@ nav{
 	padding:10px;	
 }
 .container ul li{
-	display: flex;
-	display: inline;
+	
+/* 	display: inline; */
 	margin-right: 1rem;
 	list-style-type: none;
+}
+.container ul{
+	display: flex;
 }
